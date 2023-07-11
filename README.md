@@ -3,7 +3,7 @@
   <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/minion.png' width='300"'>
   
 </div>
-<h3 align="center"> Hello , I'm <b><i>Shiro</i></b> </h3>
+<h3 align="center"> Hello , I'm <b><u><i>Shiro</i></u></b> </h3>
 <br><br>
 
 <p></p>
