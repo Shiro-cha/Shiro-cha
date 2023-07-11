@@ -25,7 +25,7 @@
 </tr>
 <tr>
 <td>Databases I Use</td>
-<td><img  src='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg'  alt='mongodb'  height='35'> <img  src='https://www.vectorlogo.zone/logos/sqlite/postgresql-icon.svg'  alt='postgresql'  height='30'> <img  src='https://www.vectorlogo.zone/logos/mysql/mysql-official.svg'  alt='mysql'  height='35'></td>
+<td><img  src='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg'  alt='mongodb'  height='35'> <img  src='https://www.vectorlogo.zone/logos/sqlite/postgres-icon.svg'  alt='postgresql'  height='30'> <img  src='https://www.vectorlogo.zone/logos/mysql/mysql-official.svg'  alt='mysql'  height='35'></td>
 </tr>
 <tr>
 <td>Tools I Use</td>
