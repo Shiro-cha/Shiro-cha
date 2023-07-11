@@ -1,9 +1,9 @@
 <div id="header" align="center">
   
-  <img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/minion.png' width='300"'>
+  <!--img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/minion.png' width='300"'-->
   
 </div>
-<img  src="https://readme-typing-svg.herokuapp.com?color=7C3B2D&lines=Kaiza..!+I+am+Shiro" width="100%">
+<img align='center' src="https://readme-typing-svg.herokuapp.com?color=7C3B2D&lines=Kaiza..!+I+am+Shiro" width="100%">
 <h3 align="center"> Hello , I'm <b><u><i>Shiro</i></u></b> </h3>
 <br><br>
 
