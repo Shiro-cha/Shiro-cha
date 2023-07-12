@@ -5,8 +5,8 @@
 </div>
 <img align='center' src="https://readme-typing-svg.herokuapp.com?color=EC3B2D&lines=Hello!+I+am+Shiro" width="100%">
 
-<br><br><br><br>
-<p>I love technology, especially computer science, cloud computing, software engineering, and creating automation tools for Linux and networks.</p>
+
+<p>I love technology, especially <i>computer science</i>, <i>cloud computing</i>, <i>software engineering</i>, and creating automation tools for <i>Linux and networking</i>.</p>
 <table align=center>
 <tr>
 <th>Description</th>
