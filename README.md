@@ -41,4 +41,4 @@
 
 <p><b>My motivation</b>: <i>"Later is never"</i></p>
 <br><br>
-<!--img src="https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif" width="100%"/--->
+<img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/dca7470cfa706a62a0d2a3adedbfe075/fire.gif" alt="header">
