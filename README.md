@@ -41,4 +41,4 @@
 
 <p><b>My motivation</b>: <i>"Later is never"</i></p>
 <br><br>
-<!---img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/dca7470cfa706a62a0d2a3adedbfe075/fire.gif" alt="header" align="center"--->
+<img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/dca7470cfa706a62a0d2a3adedbfe075/fire.gif" alt="header" align="center"
