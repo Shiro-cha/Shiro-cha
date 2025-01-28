@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning and expanding my skills in full-stack development.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about JavaScript, Python, web development, and more.
-- 📫 How to reach me: [Email](mailto:noum.rzdr@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nomena-razafimahandry/)) | [Twitter](https://twitter.com/shiro_yukami)
+- 📫 How to reach me: [Email](mailto:noum.rzdr@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nomena-razafimahandry/)) | [Twitter](https://x.com/shiro_yukami)
 - ⚡ Fun fact: I love exploring new technologies and working on innovative projects.
 
 ---
@@ -73,5 +73,5 @@
 
 ## 🌐 Let's Connect
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/shiro-cha/](https://www.linkedin.com/in/nomena-razafimahandry/)) or follow me on [Twitter](https://twitter.com/shiro_yukami) for updates.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nomena-razafimahandry/) or follow me on [Twitter](https://x.com/shiro_yukami) for updates.
 
