@@ -1,4 +1,4 @@
-# Hi there, I'm Shiro-cha! 👋
+# Hi there, I'm Shiro! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shiro-cha&color=blue) ![Followers](https://img.shields.io/github/followers/Shiro-cha?label=Followers&style=social) ![Stars](https://img.shields.io/github/stars/Shiro-cha?label=Stars&style=social)
 
