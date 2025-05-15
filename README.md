@@ -1,4 +1,4 @@
-# Hey there, I'm Shiro 👋 | Full-Stack Engineer in the Making
+# Hey there, I'm Shiro 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shiro-cha&color=blue)
 ![Followers](https://img.shields.io/github/followers/Shiro-cha?label=Followers&style=social)
