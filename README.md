@@ -1,67 +1,44 @@
-# Hey there, I'm Shiro 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shiro-cha&color=blue)
-![Followers](https://img.shields.io/github/followers/Shiro-cha?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/Shiro-cha?label=Stars&style=social)
+<!-- Profile Banner (optional custom GIF or static image) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Shiro.;Engineer+%7C+Craftsman.;Code+with+intention." alt="Typing SVG" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shiro-cha&color=blue" />
+  <img src="https://img.shields.io/github/followers/Shiro-cha?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Shiro-cha?label=Stars&style=social" />
+</p>
 
 ---
 
 ## 🚀 About Me
+```diff
++ Passionate about building clean, scalable, and impactful software.
+````
 
-I'm Shiro, a passionate and driven software engineer on a mission to build **clean, scalable, and impactful** tech.
-
-- 🔭 I'm currently building **advanced full-stack projects** with robust backend architectures.
-- 🌱 Constantly learning: Cloud, System Design, DevOps, and AI integration.
-- 🤝 Open to contributing to **ambitious open-source** and R&D projects.
-- 💡 Fascinated by clean code, solid architectures, and pushing the limits of what code can do.
-- 🌐 I believe in tech that empowers, scales, and lasts.
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Shell](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🧱 Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-
-### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/-Hack_The_Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black)
-![Networking](https://img.shields.io/badge/-Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+* 🧠 Always leveling up: Cloud ☁️, System Design ⚙️, DevOps 🛠️, and AI 🤖.
+* 🧪 Working on: `Potify` 🎶 (Spotify clone with personalization), `STP` 🛰️ (Smart Transmission Protocol), and `Origami-Generator` 📄🧠 (AI + design).
+* 🔥 Clean code addict | Obsessed with architecture & performance.
+* 🌍 Believer in tech that **empowers, scales, and endures**.
 
 ---
 
-## 📈 GitHub Stats
+## ⚙️ My Stack Toolbox
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Shiro-cha&show_icons=true&theme=radical" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-cha&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,bash,react,nextjs,nestjs,nodejs,angular,spring,docker,aws,mysql,postgres,mongodb,linux,vscode,git,laravel,symfony" />
+</div>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiro-cha&show_icons=true&theme=radical&hide_title=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-cha&layout=compact&theme=radical&hide_title=true" height="160"/>
 </div>
 
 ---
@@ -69,19 +46,48 @@ I'm Shiro, a passionate and driven software engineer on a mission to build **cle
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shiro-cha&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shiro-cha&theme=radical&no-frame=true&margin-w=15" />
 </div>
 
 ---
 
-## 🔗 Let's Connect
+## 🚧 Current Projects (2025 Q2)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nomena-razafimahandry/)
-- 🐦 [Twitter / X](https://x.com/shiro_yukami)
-- ✉️ [Email](mailto:noum.rzdr@gmail.com)
-- 🌍 [Portfolio Website](https://shiro-cha.github.io)
+| Project             | Tech                           | Status           | Description                                        |
+| ------------------- | ------------------------------ | ---------------- | -------------------------------------------------- |
+| `Potify`            | Next.js, Tailwind, Spotify API | 🛠️ In Progress  | Personalized music experience with ML              |
+| `STP`               | Custom protocol, C++, Linux    | 🧪 Experimenting | Smart data transfer system for low-bandwidth links |
+| `Origami-Generator` | AI, Canvas API                 | 🎨 Building MVP  | Create foldable shapes from prompt text/images     |
 
 ---
 
-> *"Build with clarity, grow with intention, and code like your future depends on it — because it does."*  
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nomena-razafimahandry/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/shiro_yukami"><img src="https://img.shields.io/badge/-X-%231DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:noum.rzdr@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://shiro-cha.github.io"><img src="https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+> 🧠 *"Build with clarity, grow with intention, and code like your future depends on it — because it does."*
 > — Shiro
+
+---
+
+## 🎯 Let’s build something legendary together.
+
+---
+
+
+
+### ✅ Ce que j’ai fait :
+- Ajout d’un **typing animation** en haut pour un effet dynamique.
+- Affichage compact et visuel du **tech stack** avec [Skillicons.dev](https://skillicons.dev).
+- Section **"Current Projects"** claire pour prouver que t’es actif.
+- Réduction des pavés de texte tout en gardant le **ton pro et inspirant**.
+
+Si tu veux, je peux aussi t’aider à mettre ça en ligne sur ton README GitHub avec les bons liens et services (ex : shields.io, vercel pour les stats, etc.). Tu veux que je t’en fasse une version prête à copier-coller direct dans ton `README.md` ?
+
