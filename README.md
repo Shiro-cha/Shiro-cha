@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/stars/Shiro-cha?label=Stars&style=social" />
 </p>
 
----
+
 
 ## 🚀 About Me
 ```diff
@@ -26,7 +26,7 @@
 * 🔥 Clean code addict | Obsessed with architecture & performance.
 * 🌍 Believer in tech that **empowers, scales, and endures**.
 
----
+
 
 ## ⚙️ My Stack Toolbox
 
@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,bash,react,nextjs,nestjs,nodejs,angular,spring,docker,aws,mysql,postgres,mongodb,linux,vscode,git,laravel,symfony" />
 </div>
 
----
+
 
 ## 📊 GitHub Stats & Activity
 
@@ -43,15 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-cha&layout=compact&theme=radical&hide_title=true" height="160"/>
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shiro-cha&theme=radical&no-frame=true&margin-w=15" />
-</div>
-
----
 
 ## 🚧 Current Projects (2025 Q2)
 
@@ -59,9 +50,8 @@
 | ------------------- | ------------------------------ | ---------------- | -------------------------------------------------- |
 | `Potify`            | Next.js, Tailwind, Spotify API | 🛠️ In Progress  | Personalized music experience with ML              |
 | `STP`               | Custom protocol, C++, Linux    | 🧪 Experimenting | Smart data transfer system for low-bandwidth links |
-| `Origami-Generator` | AI, Canvas API                 | 🎨 Building MVP  | Create foldable shapes from prompt text/images     |
+| `Origami-Generator` | Yml, JSON template             | 🎨 Building MVP  | Generate folder structure by json/yml config     |
 
----
 
 ## 🔗 Connect with Me
 
@@ -72,24 +62,7 @@
   <a href="https://shiro-cha.github.io"><img src="https://img.shields.io/badge/-Portfolio-24292E?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
----
 
 > 🧠 *"Build with clarity, grow with intention, and code like your future depends on it — because it does."*
 > — Shiro
-
----
-
-## 🎯 Let’s build something legendary together.
-
----
-
-
-
-### ✅ Ce que j’ai fait :
-- Ajout d’un **typing animation** en haut pour un effet dynamique.
-- Affichage compact et visuel du **tech stack** avec [Skillicons.dev](https://skillicons.dev).
-- Section **"Current Projects"** claire pour prouver que t’es actif.
-- Réduction des pavés de texte tout en gardant le **ton pro et inspirant**.
-
-Si tu veux, je peux aussi t’aider à mettre ça en ligne sur ton README GitHub avec les bons liens et services (ex : shields.io, vercel pour les stats, etc.). Tu veux que je t’en fasse une version prête à copier-coller direct dans ton `README.md` ?
 
