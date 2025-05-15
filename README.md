@@ -17,10 +17,12 @@
 ## 🚀 About Me
 ```diff
 + Passionate about building clean, scalable, and impactful software.
+- No longer settling for just “it works”.
+
 ````
 
 * 🧠 Always leveling up: Cloud ☁️, System Design ⚙️, DevOps 🛠️, and AI 🤖.
-* 🧪 Working on: `Potify` 🎶 (Spotify clone with personalization), `STP` 🛰️ (Smart Transmission Protocol), and `Origami-Generator` 📄🧠 (AI + design).
+* 🧪 Working on: `Potify` 🎶 (Spotify clone with personalization), `STP` 🛰️ (Smart Transmission Protocol), and `Origami-Generator` 📄🧠 .
 * 🔥 Clean code addict | Obsessed with architecture & performance.
 * 🌍 Believer in tech that **empowers, scales, and endures**.
 
