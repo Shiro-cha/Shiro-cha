@@ -31,7 +31,7 @@
 ## ⚙️ My Stack Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,bash,react,nextjs,nestjs,nodejs,angular,spring,docker,aws,mysql,postgres,mongodb,linux,vscode,git,laravel,symfony" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,bash,react,nextjs,nestjs,bun,docker,postgres,mongodb,linux,laravel,symfony" />
 </div>
 
 
