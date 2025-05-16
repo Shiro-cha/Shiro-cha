@@ -16,8 +16,8 @@
 
 ## 🚀 About Me
 ```diff
-+ Passionate about building clean, scalable, and impactful software.
-- No longer settling for just “it works”.
++ clean, scalable, and impactful software.
+- it works
 
 ````
 
